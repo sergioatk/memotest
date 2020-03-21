@@ -1,0 +1,10 @@
+.tablero {
+    text-align: center;
+    background-color: blue;
+    font-size: 50px;
+    color: blue;
+    opacity: 0.5;
+    transition: 500;
+    display: none;
+    
+}
