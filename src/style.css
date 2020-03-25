@@ -1,6 +1,6 @@
 .tablero {
     text-align: center;
-    background-color: white;
+    background-color: black;
     font-size: 50px;
     color: blue;
     opacity: 0.5;
@@ -10,5 +10,5 @@
 }
 
 .col-md-4 {
-    background-color: blue;
+    background-color: black;
 }
