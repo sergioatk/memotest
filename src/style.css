@@ -1,10 +1,14 @@
 .tablero {
     text-align: center;
-    background-color: blue;
+    background-color: white;
     font-size: 50px;
     color: blue;
     opacity: 0.5;
     transition: 500;
     display: none;
     
+}
+
+.col-md-4 {
+    background-color: blue;
 }
